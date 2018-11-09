@@ -1,7 +1,7 @@
 import threading
 from tkinter import ttk
 from tryyy import *
-from test2shit2 import *
+from DataTrain import *
 from tkinter import *
 
 
